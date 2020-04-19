@@ -1,7 +1,7 @@
 # speechtotext
 <b><h1>Intro</h1></b>
 
-By using this sofware you can convert speech into text it uses google api to convert speech to text. You can creayte software like this by your own to learn it go this web page https://like-null.blogspot.com/2020/04/how-to-make-speech-to-text-program-in.html .
+By using this software you can convert speech into text it uses google API to convert speech to text. You can create software like this on your own to learn it go this web page https://like-null.blogspot.com/2020/04/how-to-make-speech-to-text-program-in.html.
 
 <br />
 <b><h1>Requirements</h1></b>
